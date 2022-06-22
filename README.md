@@ -1,5 +1,6 @@
 Hi 👋 My name is Leonardo <br>
-✉️  You can contact me at [juanlov4321@gmail.com](mailto:juanlov4321@gmail.com)* 🧠  I'm learning Go
+✉️  You can contact me at [juanlov4321@gmail.com](mailto:juanlov4321@gmail.com)<br> 
+🧠  I'm learning Blockchain
 
 ### Skills
 
