@@ -1,4 +1,4 @@
-Hi 👋 My name is Leonardi
+Hi 👋 My name is Leonardo
 =========================
 
 *   ✉️  You can contact me at [juanlov4321@gmail.com](mailto:juanlov4321@gmail.com)
