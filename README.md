@@ -1,15 +1,19 @@
-Hi ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-9127-417c-8b55-ab5a4333674e.gif)My name is Leonardo Ramirez
-========================================================================================================================================
+# Hi ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-9127-417c-8b55-ab5a4333674e.gif)My name is Leonardo Ramirez
 
 Hi, I'm Leonardo, I'm a developer, I've developed hybrid applications using ionic-vue, I've also developed websites, I'm currently job in Cymetria Group S.A.S and I'm venturing into decentralized application development with blockchain and ethereum (web 3.0)
 
-*   🌍  I'm based in Colombia
-*   🖥️  See my portfolio at [Leonardo Ramirez](http://leonardoramirez.software)
-*   ✉️  You can contact me at [juanlov4321@gmail.com](mailto:juanlov4321@gmail.com)
-*   🧠  I'm learning Blockchain<a href="https://www.github.com/leorami99" target="_blank" rel="noreferrer"><img
+-   🌍  I'm based in Colombia
+-   🖥️  See my portfolio at [Leonardo Ramirez](http://leonardoramirez.software)
+-   ✉️  You can contact me at [juanlov4321@gmail.com](mailto:juanlov4321@gmail.com)
+-   🧠  I'm learning Blockchain
+<br>
+<a href="https://www.github.com/leorami99" target="_blank" rel="noreferrer"><img
                   src="https://img.shields.io/github/followers/leorami99?logo=github&style=for-the-badge&color=0891b2&labelColor=1c1917" /></a><a href="https://www.twitter.com/juanleonardo99" target="_blank" rel="noreferrer"><img
                   src="https://img.shields.io/twitter/follow/juanleonardo99?logo=twitter&style=for-the-badge&color=0891b2&labelColor=1c1917"
-                /></a>### Skills 
+                /></a>
+
+### Skills
+
 <p align="left">
 <a href="https://www.python.org/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/python-colored.svg" width="36" height="36" alt="Python" /></a>
 <a href="https://www.php.net/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/php-colored.svg" width="36" height="36" alt="PHP" /></a>
@@ -40,20 +44,22 @@ Hi, I'm Leonardo, I'm a developer, I've developed hybrid applications using ioni
 <a href="https://ipfs.io/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/ipfs-colored.svg" width="36" height="36" alt="IPFS" /></a>
 <a href="https://ethereum.org/en/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/ethereum-colored.svg" width="36" height="36" alt="Ethereum" /></a>
 </p>
-                    
-                  ### Socials
-                  
-                  
-                <p align="left">
-                          
-                      <a href="https://www.github.com/leorami99" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/github.svg" width="32" height="32" /></a>
-                          
-                      <a href="http://www.instagram.com/mmordekai99" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/instagram.svg" width="32" height="32" /></a>
-                          
-                      <a href="https://www.linkedin.com/in/jleonardoramirez" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/linkedin.svg" width="32" height="32" /></a>
-                          
-                      <a href="https://www.twitter.com/juanleonardo99" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/twitter.svg" width="32" height="32" /></a></p>### Badges<b>My GitHub Stats</b><a
-                      href="http://www.github.com/leorami99"><img src="https://github-readme-stats.vercel.app/api?username=leorami99&show_icons=true&hide=&count_private=true&title_color=0891b2&text_color=ffffff&icon_color=0891b2&bg_color=1c1917&hide_border=true&show_icons=true" alt="leorami99's GitHub stats" /></a><a
-                      href="http://www.github.com/leorami99"><img
-                  src="https://github-readme-streak-stats.herokuapp.com/?user=leorami99&stroke=ffffff&background=1c1917&ring=0891b2&fire=0891b2&currStreakNum=ffffff&currStreakLabel=0891b2&sideNums=ffffff&sideLabels=ffffff&dates=ffffff&hide_border=true" /></a><a
-                      href="http://www.github.com/leorami99"><img src="https://github-readme-activity-graph.cyclic.app/graph?username=leorami99&bg_color=1c1917&color=ffffff&line=0891b2&point=ffffff&area_color=1c1917&area=true&hide_border=true&custom_title=GitHub%20Commits%20Graph" alt="GitHub Commits Graph" /></a><a href="https://github.com/leorami99" align="left"><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=leorami99&langs_count=10&title_color=0891b2&text_color=ffffff&icon_color=0891b2&bg_color=1c1917&hide_border=true&locale=en&custom_title=Top%20%Languages" alt="Top Languages" /></a>
+
+
+### Socials
+
+<p align="left">
+<a href="https://www.github.com/leorami99" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/github.svg" width="32" height="32" /></a>      
+<a href="http://www.instagram.com/mmordekai99" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/instagram.svg" width="32" height="32" /></a>
+<a href="https://www.linkedin.com/in/jleonardoramirez" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/linkedin.svg" width="32" height="32" /></a>
+<a href="https://www.twitter.com/juanleonardo99" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/twitter.svg" width="32" height="32" /></a>
+</p>
+
+
+### Badges
+
+<b>My GitHub Stats</b>
+<a href="http://www.github.com/leorami99"><img src="https://github-readme-stats.vercel.app/api?username=leorami99&show_icons=true&hide=&count_private=true&title_color=0891b2&text_color=ffffff&icon_color=0891b2&bg_color=1c1917&hide_border=true&show_icons=true" alt="leorami99's GitHub stats" /></a>
+<a href="http://www.github.com/leorami99"><img src="https://github-readme-streak-stats.herokuapp.com/?user=leorami99&stroke=ffffff&background=1c1917&ring=0891b2&fire=0891b2&currStreakNum=ffffff&currStreakLabel=0891b2&sideNums=ffffff&sideLabels=ffffff&dates=ffffff&hide_border=true" /></a>
+<a href="http://www.github.com/leorami99"><img src="https://github-readme-activity-graph.cyclic.app/graph?username=leorami99&bg_color=1c1917&color=ffffff&line=0891b2&point=ffffff&area_color=1c1917&area=true&hide_border=true&custom_title=GitHub%20Commits%20Graph" alt="GitHub Commits Graph" /></a>
+<a href="https://github.com/leorami99" align="left"><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=leorami99&langs_count=10&title_color=0891b2&text_color=ffffff&icon_color=0891b2&bg_color=1c1917&hide_border=true&locale=en&custom_title=Top%20%Languages" alt="Top Languages" /></a>
