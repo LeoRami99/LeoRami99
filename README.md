@@ -2,7 +2,7 @@
 
 ###
 
-<p align="left">Hi, I'm Leonardo, I'm a developer, I've developed hybrid applications using ionic-vue, I've also developed websites, I'm currently job in Cymetria Group S.A.S and I'm venturing into decentralized application development with blockchain and ethereum (web 3.0)</p>
+<p align="left">Hi, I'm Leonardo, I'm a developer, I've developed applications and general software, I've also developed websites, I'm currently job in Cymetria Group S.A.S and I'm venturing into decentralized application development with blockchain and ethereum (web 3.0)</p>
 
 ###
 
