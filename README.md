@@ -112,9 +112,3 @@
 <img src="https://raw.githubusercontent.com/LeoRami99/LeoRami99/output/snake.svg" alt="Snake animation" />
 
 ###
-
-<div align="center">
-  <img src="https://profile-counter.glitch.me/LeoRami99/count.svg?"  />
-</div>
-
-###
